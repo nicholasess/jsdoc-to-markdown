@@ -30,7 +30,7 @@
     "command-line-tool": "^0.8.0",
     "config-master": "^3.1.0",
     "dmd": "^3.0.12",
-    "jsdoc-api": "^4.0.3",
+    "jsdoc-api": "^7.2.0",
     "jsdoc-parse": "^3.0.1",
     "walk-back": "^3.0.0"
   },
